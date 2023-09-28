@@ -92,6 +92,11 @@ a{
     color: black;
 }
 
+a:hover{
+    color: rgb(48, 124, 236);
+    font-weight: 300;
+}
+
 .subTitulo{
     width: 30px;
 }
